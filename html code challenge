@@ -8,8 +8,9 @@
     <title>Movie Ticketing System</title>
 </head>
 <body>
+    <h1>List of Films</h1>
     <ul id="list"></ul>
     <main></main>
+    <script src="main.js"></script>
 </body>
-<script src="main.js"></script>
 </html>
